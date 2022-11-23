@@ -1,1 +1,0 @@
-#Computational Physics - Adam Christensen
